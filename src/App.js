@@ -42,7 +42,7 @@ function getDateInfo() {
 
 
 export function UserComponent() {
-  const name = 'Eblan'
+  const name = 'TestName'
   const age = 55
   const gender = 'Male'
     const user_container = "user_container"
